@@ -14,7 +14,7 @@
   Elige la memoria, elige el formato y listo. Con copia de seguridad opcional.
 </p>
 
-  **Release Descarga:** [Release](https://github.com/xyvenqorix/GrifoFormat/releases/tag/GrifoFormat)
+  **Release Descarga:** [Release](https://github.com/ProyectCuba/GrifoFormatUSB/releases/tag/GrifoFormatUSB)
 ---
 
 ## ✨ ¿Qué es?
